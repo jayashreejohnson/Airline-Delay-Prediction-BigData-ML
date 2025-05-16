@@ -60,5 +60,7 @@ This project analyzes U.S. flight delay patterns using Hive on AWS EMR and build
 
 - `FlightDelayPhase1` – Project Presentation
 - `FlightDelayPhase2` - Project Presentation
+- `Combined_Sample_3000.csv` - Dataset combined in Excel
+- `predictions_for_10_records.xlsx` - Future predictions
 - `Finals.ipynb` – Notebook with feature engineering and ML modeling  
 - `README.md` – Project documentation
